@@ -1,2 +1,6 @@
-# License-Plate_Object_Detection
-Predicts and identifies license plate of vehicles with YOLOv5
+# License Plate Detection With YOLOv5
+> This is a YOLOv5 implementation trained on a custom dataset to detect license plate of vehicles.
+
+## Training:
+
+## Tensorboard results:
