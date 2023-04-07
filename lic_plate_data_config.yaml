@@ -1,0 +1,10 @@
+# for training on mount data (slow)
+# path: ../drive/My Drive/Machine_Learning/datasets
+
+path: ../datasets
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['license_plate']
