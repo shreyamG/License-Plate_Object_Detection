@@ -5,4 +5,5 @@
 
 ## Tensorboard results:
 
-![](output/tensorboard.jpg)
+![tensorboard](https://github.com/shreyamG/License-Plate_Object_Detection/assets/95539093/97d2cd9a-b004-4965-9ac1-b34f009ff83f)
+
